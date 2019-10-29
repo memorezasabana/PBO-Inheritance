@@ -1,9 +1,9 @@
 # PBO-Inheritance
 # Latihan 1
-Pertama.java
-Kedua.java
-TestPertamaKedua.java
-KompilasiKetiga.java
+- Pertama.java
+- Kedua.java
+- TestPertamaKedua.java
+- KompilasiKetiga.java
 # 1a
 ![Alt Text](https://github.com/memorezasabana/PBO-Inheritance/blob/master/Latihan%201a.png)
 # 1c
