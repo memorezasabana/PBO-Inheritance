@@ -1,10 +1,10 @@
 # PBO-Inheritance
 # Latihan 1
-1a
+# 1a
 ![Alt Text](https://github.com/memorezasabana/PBO-Inheritance/blob/master/Latihan%201a.png)
-1c
+# 1c
 ![Alt Text](https://github.com/memorezasabana/PBO-Inheritance/blob/master/Latihan%201c.png)
-1d
+# 1d
 ![Alt Text](https://github.com/memorezasabana/PBO-Inheritance/blob/master/Latihan%201d.png)
 # Latihan 2
 ![Alt Text](https://github.com/memorezasabana/PBO-Inheritance/blob/master/Latihan%202.png)
