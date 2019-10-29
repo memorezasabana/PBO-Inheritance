@@ -21,4 +21,4 @@
 # Latihan 6
 ![Alt Text](https://github.com/memorezasabana/PBO-Inheritance/blob/master/Latihan%206.png)
 # Tugas Praktikum
-![Alt Text](https://github.com/memorezasabana/PBO-Inheritance/blob/master/Tugas%20Praktikum.png)
+![Alt Text](https://github.com/memorezasabana/PBO-Inheritance/blob/master/TP.png)
